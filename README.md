@@ -3,6 +3,7 @@
 ============================================================
 This is for the extra credit of infx574 spring 2018.
 Personally, I am quite interested in the matplotlib library.
+
 ============================================================
 
 ### THE IMPORTANCE OF DATA VISUALIZATION
